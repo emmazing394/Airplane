@@ -1,1 +1,1 @@
-**Airplane made in blender**
+**Unity project containing an airplane model made in Unity**
